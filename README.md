@@ -1,4 +1,5 @@
-### Hola a todooooss, este será mi futuro Portfolio, a ver qué tal la cosa. 👋
+### Hola a todos, muchas gracias por pasar por aquí. 
+En un futuro subiré aquí mi Portfolio. 👋
 
 <!--
 **PabloCervera98/PabloCervera98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
